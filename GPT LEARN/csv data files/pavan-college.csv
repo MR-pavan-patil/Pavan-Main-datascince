@@ -1,0 +1,41 @@
+College_ID,College_Name,City,State,Type,Established_Year,Total_Students,NIRF_Rank,Average_Package_LPA,Highest_Package_LPA,Placement_Rate,Faculty_Count,Student_Faculty_Ratio,Campus_Size_Acres,Accreditation,Courses_Offered,Hostel_Capacity,Library_Books,Research_Papers,College_Rating
+C001,IIT Bombay,Mumbai,Maharashtra,Government,1958,10500,1,18.5,65.0,95.2,650,16,550,A++,42,4500,450000,2850,4.8
+C002,IIT Delhi,New Delhi,Delhi,Government,1961,11200,2,17.8,58.0,94.8,720,15,525,A++,45,5200,520000,3120,4.7
+C003,IIT Madras,Chennai,Tamil Nadu,Government,1959,10100,3,16.2,52.0,93.5,680,15,617,A++,38,4800,480000,2980,4.7
+C004,IIT Kanpur,Kanpur,Uttar Pradesh,Government,1959,9800,4,15.8,48.0,92.8,640,15,1055,A++,40,4200,420000,2650,4.6
+C005,IIT Kharagpur,Kharagpur,West Bengal,Government,1951,12500,5,14.5,45.0,91.5,850,14,2100,A++,52,6500,580000,3450,4.6
+C006,IIT Roorkee,Roorkee,Uttarakhand,Government,1847,10800,6,14.2,42.0,90.8,695,15,365,A++,44,5000,465000,2720,4.5
+C007,BITS Pilani,Pilani,Rajasthan,Private,1964,18500,25,9.8,35.0,88.5,1200,15,328,A+,48,8500,380000,1850,4.4
+C008,NIT Trichy,Tiruchirappalli,Tamil Nadu,Government,1964,9500,9,10.5,38.0,89.2,520,18,800,A+,35,4100,320000,1650,4.3
+C009,Delhi University,New Delhi,Delhi,Government,1922,135000,11,6.5,25.0,75.5,8500,16,450,A+,95,28000,2500000,5200,4.2
+C010,Anna University,Chennai,Tamil Nadu,Government,1978,42000,15,5.8,22.0,72.8,2800,15,185,A+,68,12500,950000,3850,4.1
+C011,VIT Vellore,Vellore,Tamil Nadu,Private,1984,38000,12,7.5,40.0,82.5,2200,17,365,A+,58,16000,485000,2100,4.3
+C012,Manipal Institute of Technology,Manipal,Karnataka,Private,1957,27000,45,6.8,28.0,79.5,1650,16,313,A,52,11500,420000,1580,4.0
+C013,SRM University,Chennai,Tamil Nadu,Private,1985,45000,32,5.2,32.0,76.2,2850,16,425,A,72,18500,680000,1920,3.9
+C014,Jadavpur University,Kolkata,West Bengal,Government,1955,11500,19,7.2,35.0,81.8,680,17,68,A+,42,3800,380000,1750,4.2
+C015,BIT Mesra,Ranchi,Jharkhand,Private,1955,12500,30,6.5,30.0,78.5,720,17,780,A,45,5200,285000,1420,4.0
+C016,Amrita University,Coimbatore,Tamil Nadu,Private,2003,23000,8,7.8,42.0,84.2,1450,16,400,A+,55,9500,425000,2250,4.2
+C017,IIIT Hyderabad,Hyderabad,Telangana,Government,1998,4200,65,16.5,55.0,96.5,280,15,62,A++,18,1800,185000,1650,4.6
+C018,Pune University,Pune,Maharashtra,Government,1949,520000,22,4.8,18.0,68.5,12500,42,411,A,125,15000,1800000,4250,3.8
+C019,Jamia Millia Islamia,New Delhi,Delhi,Government,1920,18500,6,6.2,28.0,74.8,1250,15,200,A+,58,6200,520000,1850,4.1
+C020,Thapar University,Patiala,Punjab,Private,1956,13500,29,7.5,38.0,82.8,820,16,250,A+,42,5800,295000,1380,4.1
+C021,NIT Surathkal,Surathkal,Karnataka,Government,1960,8500,13,9.8,42.0,88.5,480,18,625,A+,32,3800,285000,1580,4.3
+C022,PSG College,Coimbatore,Tamil Nadu,Private,1951,9200,52,5.5,24.0,76.5,650,14,45,A,38,3500,185000,920,3.9
+C023,Shiv Nadar University,Greater Noida,Uttar Pradesh,Private,2011,4800,75,8.2,32.0,85.5,380,13,286,A,28,2400,125000,850,4.2
+C024,IIT Guwahati,Guwahati,Assam,Government,1994,9200,7,15.2,48.0,91.8,620,15,285,A++,36,4000,385000,2420,4.5
+C025,IIT Hyderabad,Hyderabad,Telangana,Government,2008,3800,8,14.8,45.0,93.2,320,12,576,A++,28,1800,165000,1580,4.5
+C026,Lovely Professional University,Phagwara,Punjab,Private,2005,35000,95,4.2,28.0,72.5,2200,16,600,A,85,14500,485000,1250,3.7
+C027,Chandigarh University,Mohali,Punjab,Private,2012,28000,105,4.8,25.0,71.8,1850,15,200,A,78,12000,385000,980,3.6
+C028,Christ University,Bangalore,Karnataka,Private,1969,22000,42,6.5,32.0,80.5,1350,16,52,A+,62,8500,425000,1650,4.0
+C029,Banaras Hindu University,Varanasi,Uttar Pradesh,Government,1916,28500,10,5.8,22.0,73.5,1850,15,1300,A+,72,9800,1500000,2850,4.1
+C030,Aligarh Muslim University,Aligarh,Uttar Pradesh,Government,1920,32000,18,5.2,20.0,71.2,2100,15,467,A+,68,11500,1350000,2420,4.0
+C031,NIT Warangal,Warangal,Telangana,Government,1959,7800,21,9.2,40.0,87.5,450,17,256,A+,30,3200,285000,1520,4.2
+C032,Kalasalingam University,Krishnankoil,Tamil Nadu,Private,1984,14500,88,4.8,22.0,74.8,920,16,250,A,48,6200,285000,1120,3.8
+C033,Symbiosis Institute,Pune,Maharashtra,Private,1971,8500,55,8.5,35.0,83.5,580,15,100,A,32,3800,195000,1050,4.1
+C034,Panjab University,Chandigarh,Punjab,Government,1882,18500,64,4.5,18.0,69.8,1250,15,550,A,85,6500,950000,1850,3.9
+C035,Bennett University,Greater Noida,Uttar Pradesh,Private,2016,3200,120,7.2,28.0,79.5,280,11,68,A,22,1600,85000,520,4.0
+C036,Amity University,Noida,Uttar Pradesh,Private,2005,35000,48,5.8,32.0,76.5,2500,14,75,A,95,14000,585000,1850,3.8
+C037,SASTRA University,Thanjavur,Tamil Nadu,Private,1984,14200,35,6.5,28.0,78.8,850,17,140,A+,45,5800,325000,1420,4.0
+C038,Birla Institute Pilani Goa,Goa,Goa,Private,2004,3800,26,9.5,35.0,87.8,280,14,180,A+,18,1800,125000,820,4.3
+C039,Osmania University,Hyderabad,Telangana,Government,1918,28000,38,4.2,16.0,67.5,1950,14,1600,A,78,9500,1200000,2250,3.8
+C040,JNTU Hyderabad,Hyderabad,Telangana,Government,1972,185000,95,3.8,15.0,65.2,8500,22,122,A,92,8500,850000,2580,3.6

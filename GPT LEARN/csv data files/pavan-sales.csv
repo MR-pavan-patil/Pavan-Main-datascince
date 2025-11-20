@@ -1,0 +1,201 @@
+Order_ID,Date,Customer_ID,Customer_Name,Age,Gender,City,State,Region,Product_ID,Product_Name,Category,Sub_Category,Brand,Quantity,Unit_Price,Discount_Percent,Shipping_Cost,Total_Amount,Payment_Method,Delivery_Status,Delivery_Days,Customer_Rating,Sales_Channel
+ORD001,2024-01-05,CUST1001,Rajesh Kumar,34,Male,Mumbai,Maharashtra,West,PROD101,Laptop,Electronics,Computers,Dell,1,45000,10,500,41000,Credit Card,Delivered,3,4.5,Online
+ORD002,2024-01-05,CUST1002,Priya Sharma,28,Female,Delhi,Delhi,North,PROD205,Saree,Clothing,Ethnic Wear,FabIndia,2,2500,5,150,4900,UPI,Delivered,4,4.2,Online
+ORD003,2024-01-06,CUST1003,Amit Patel,42,Male,Ahmedabad,Gujarat,West,PROD312,Refrigerator,Home Appliances,Kitchen,Samsung,1,35000,15,800,30550,Debit Card,Delivered,5,4.8,Store
+ORD004,2024-01-07,CUST1004,Sneha Reddy,31,Female,Hyderabad,Telangana,South,PROD108,Mobile Phone,Electronics,Smartphones,OnePlus,1,28000,8,200,25960,Credit Card,Delivered,2,4.6,Online
+ORD005,2024-01-08,CUST1005,Vikram Singh,45,Male,Jaipur,Rajasthan,North,PROD425,Sofa Set,Furniture,Living Room,Pepperfry,1,52000,12,1500,47260,EMI,Delivered,7,4.3,Online
+ORD006,2024-01-08,CUST1006,Ananya Das,26,Female,Kolkata,West Bengal,East,PROD201,Kurti,Clothing,Western Wear,Biba,3,1200,10,100,3340,UPI,Delivered,3,4.4,Store
+ORD007,2024-01-09,CUST1007,Suresh Nair,38,Male,Bangalore,Karnataka,South,PROD105,Smartwatch,Electronics,Wearables,Apple,1,42000,5,250,40150,Credit Card,Delivered,3,4.9,Online
+ORD008,2024-01-10,CUST1008,Kavita Joshi,33,Female,Pune,Maharashtra,West,PROD315,Mixer Grinder,Home Appliances,Kitchen,Philips,2,4500,8,180,8460,Debit Card,Delivered,4,4.1,Store
+ORD009,2024-01-11,CUST1009,Rahul Verma,29,Male,Lucknow,Uttar Pradesh,North,PROD520,Cricket Bat,Sports,Cricket,MRF,1,8500,0,120,8620,Cash on Delivery,Delivered,6,4.7,Online
+ORD010,2024-01-12,CUST1010,Deepika Menon,35,Female,Chennai,Tamil Nadu,South,PROD203,Lehenga,Clothing,Ethnic Wear,Manyavar,1,15000,20,300,12300,Credit Card,Delivered,5,4.5,Store
+ORD011,2024-01-13,CUST1011,Arjun Kapoor,27,Male,Mumbai,Maharashtra,West,PROD102,Gaming Laptop,Electronics,Computers,Asus,1,85000,12,600,75480,EMI,Delivered,4,4.8,Online
+ORD012,2024-01-14,CUST1002,Priya Sharma,28,Female,Delhi,Delhi,North,PROD410,Dining Table,Furniture,Dining Room,IKEA,1,28000,10,900,25920,Credit Card,Delivered,8,4.2,Online
+ORD013,2024-01-15,CUST1012,Manoj Tiwari,41,Male,Patna,Bihar,East,PROD310,Air Conditioner,Home Appliances,Cooling,LG,1,38000,15,700,33000,Debit Card,Delivered,6,4.4,Store
+ORD014,2024-01-16,CUST1013,Ritu Agarwal,30,Female,Indore,Madhya Pradesh,Central,PROD204,Jeans,Clothing,Western Wear,Levis,2,3500,15,120,6070,UPI,Delivered,3,4.3,Online
+ORD015,2024-01-17,CUST1014,Karan Malhotra,36,Male,Chandigarh,Punjab,North,PROD106,Tablet,Electronics,Computers,Samsung,1,32000,10,300,29100,Credit Card,Delivered,3,4.6,Online
+ORD016,2024-01-18,CUST1015,Nisha Gupta,25,Female,Surat,Gujarat,West,PROD206,Salwar Suit,Clothing,Ethnic Wear,W,2,2800,5,150,5470,UPI,Delivered,4,4.0,Store
+ORD017,2024-01-19,CUST1016,Sanjay Rao,44,Male,Visakhapatnam,Andhra Pradesh,South,PROD314,Washing Machine,Home Appliances,Laundry,Whirlpool,1,25000,12,650,22650,EMI,Delivered,5,4.5,Online
+ORD018,2024-01-20,CUST1017,Pooja Khanna,32,Female,Nagpur,Maharashtra,Central,PROD420,Study Table,Furniture,Bedroom,UrbanLadder,1,8500,8,350,8170,Debit Card,Delivered,6,4.1,Online
+ORD019,2024-01-21,CUST1018,Anil Desai,39,Male,Vadodara,Gujarat,West,PROD525,Football,Sports,Football,Nivia,2,1200,0,80,2480,Cash on Delivery,Delivered,5,4.4,Store
+ORD020,2024-01-22,CUST1019,Meera Iyer,28,Female,Coimbatore,Tamil Nadu,South,PROD103,Headphones,Electronics,Audio,Sony,1,8500,10,120,7770,UPI,Delivered,3,4.7,Online
+ORD021,2024-01-23,CUST1020,Rohit Sharma,31,Male,Delhi,Delhi,North,PROD311,Microwave Oven,Home Appliances,Kitchen,IFB,1,12000,10,300,11100,Credit Card,Delivered,4,4.3,Online
+ORD022,2024-01-24,CUST1003,Amit Patel,42,Male,Ahmedabad,Gujarat,West,PROD207,T-Shirt,Clothing,Casual Wear,Nike,4,1500,20,100,4900,Debit Card,Delivered,3,4.5,Store
+ORD023,2024-01-25,CUST1021,Swati Bhatt,27,Female,Dehradun,Uttarakhand,North,PROD415,Bookshelf,Furniture,Living Room,HomeTown,1,9500,5,400,9425,UPI,Delivered,7,4.2,Online
+ORD024,2024-01-26,CUST1022,Manish Jain,35,Male,Bhopal,Madhya Pradesh,Central,PROD104,Camera,Electronics,Photography,Canon,1,55000,8,350,50950,EMI,Delivered,4,4.9,Online
+ORD025,2024-01-27,CUST1023,Anjali Saxena,29,Female,Kanpur,Uttar Pradesh,North,PROD202,Dress,Clothing,Western Wear,Zara,2,3200,10,150,5910,Credit Card,Delivered,4,4.4,Online
+ORD026,2024-01-28,CUST1024,Vivek Pandey,40,Male,Ranchi,Jharkhand,East,PROD316,Water Purifier,Home Appliances,Kitchen,Kent,1,18000,12,400,16240,Debit Card,Delivered,5,4.6,Store
+ORD027,2024-01-29,CUST1025,Divya Pillai,26,Female,Kochi,Kerala,South,PROD208,Handbag,Accessories,Bags,Baggit,1,3500,5,100,3425,UPI,Delivered,3,4.3,Online
+ORD028,2024-01-30,CUST1026,Gaurav Chopra,33,Male,Ludhiana,Punjab,North,PROD530,Gym Equipment,Sports,Fitness,Decathlon,1,25000,10,800,23300,Credit Card,Delivered,6,4.5,Online
+ORD029,2024-01-31,CUST1027,Isha Malhotra,31,Female,Mumbai,Maharashtra,West,PROD107,Smartwatch,Electronics,Wearables,Samsung,1,18000,8,200,16760,UPI,Delivered,2,4.2,Store
+ORD030,2024-02-01,CUST1028,Nikhil Mehta,37,Male,Surat,Gujarat,West,PROD425,Office Chair,Furniture,Office,Featherlite,2,7500,12,350,13550,EMI,Delivered,5,4.4,Online
+ORD031,2024-02-02,CUST1029,Kritika Nanda,24,Female,Gurgaon,Haryana,North,PROD209,Sunglasses,Accessories,Eyewear,RayBan,1,8500,15,80,7305,Credit Card,Delivered,2,4.7,Online
+ORD032,2024-02-03,CUST1005,Vikram Singh,45,Male,Jaipur,Rajasthan,North,PROD313,Television,Home Appliances,Entertainment,Sony,1,65000,18,900,54230,EMI,Delivered,7,4.8,Store
+ORD033,2024-02-04,CUST1030,Shruti Deshmukh,30,Female,Nashik,Maharashtra,West,PROD210,Jacket,Clothing,Winter Wear,Woodland,1,4500,10,150,4200,Debit Card,Delivered,4,4.1,Online
+ORD034,2024-02-05,CUST1031,Abhishek Roy,28,Male,Bhubaneswar,Odisha,East,PROD109,Bluetooth Speaker,Electronics,Audio,JBL,2,3500,5,120,6770,UPI,Delivered,4,4.6,Online
+ORD035,2024-02-06,CUST1032,Pallavi Rao,34,Female,Mysore,Karnataka,South,PROD211,Shoes,Footwear,Casual,Bata,2,2200,8,100,4148,Cash on Delivery,Delivered,5,4.0,Store
+ORD036,2024-02-07,CUST1033,Rajat Khanna,39,Male,Faridabad,Haryana,North,PROD317,Iron Box,Home Appliances,Laundry,Bajaj,1,2500,5,80,2455,UPI,Delivered,3,4.2,Online
+ORD037,2024-02-08,CUST1034,Neha Choudhary,27,Female,Udaipur,Rajasthan,North,PROD212,Watch,Accessories,Watches,Titan,1,9500,10,100,8650,Credit Card,Delivered,3,4.5,Store
+ORD038,2024-02-09,CUST1035,Siddharth Bose,32,Male,Guwahati,Assam,East,PROD535,Badminton Racket,Sports,Badminton,Yonex,1,4500,0,100,4600,Debit Card,Delivered,6,4.4,Online
+ORD039,2024-02-10,CUST1036,Tanvi Shah,26,Female,Rajkot,Gujarat,West,PROD110,Power Bank,Electronics,Accessories,Mi,3,1500,10,80,4130,UPI,Delivered,3,4.3,Online
+ORD040,2024-02-11,CUST1008,Kavita Joshi,33,Female,Pune,Maharashtra,West,PROD430,Mattress,Furniture,Bedroom,Sleepwell,1,22000,15,600,19300,EMI,Delivered,5,4.6,Store
+ORD041,2024-02-12,CUST1037,Harish Kumar,41,Male,Amritsar,Punjab,North,PROD318,Vacuum Cleaner,Home Appliances,Cleaning,Eureka Forbes,1,15000,12,400,13600,Credit Card,Delivered,4,4.5,Online
+ORD042,2024-02-13,CUST1038,Lakshmi Iyer,29,Female,Madurai,Tamil Nadu,South,PROD213,Earrings,Accessories,Jewelry,Tanishq,1,12000,5,120,11520,Debit Card,Delivered,3,4.8,Store
+ORD043,2024-02-14,CUST1039,Karthik Reddy,35,Male,Warangal,Telangana,South,PROD111,Gaming Console,Electronics,Gaming,Sony,1,48000,10,500,43700,EMI,Delivered,4,4.9,Online
+ORD044,2024-02-15,CUST1040,Ritika Singh,25,Female,Jalandhar,Punjab,North,PROD214,Scarf,Accessories,Winter Wear,FabIndia,2,800,5,60,1580,UPI,Delivered,3,4.1,Online
+ORD045,2024-02-16,CUST1041,Alok Mishra,38,Male,Varanasi,Uttar Pradesh,North,PROD540,Tennis Racket,Sports,Tennis,Wilson,1,6500,8,150,6130,Cash on Delivery,Delivered,7,4.3,Store
+ORD046,2024-02-17,CUST1042,Simran Kaur,30,Female,Mohali,Punjab,North,PROD319,Air Fryer,Home Appliances,Kitchen,Prestige,1,8500,10,250,7900,Credit Card,Delivered,4,4.4,Online
+ORD047,2024-02-18,CUST1043,Aditya Nair,27,Male,Thiruvananthapuram,Kerala,South,PROD112,Drone,Electronics,Camera,DJI,1,75000,12,700,66700,EMI,Delivered,5,4.7,Online
+ORD048,2024-02-19,CUST1012,Manoj Tiwari,41,Male,Patna,Bihar,East,PROD435,Wardrobe,Furniture,Bedroom,Godrej,1,35000,15,1200,31050,Debit Card,Delivered,8,4.2,Store
+ORD049,2024-02-20,CUST1044,Priyanka Bhat,28,Female,Mangalore,Karnataka,South,PROD215,Sandals,Footwear,Casual,Crocs,1,2500,10,80,2330,UPI,Delivered,4,4.0,Online
+ORD050,2024-02-21,CUST1045,Rohan Desai,34,Male,Nashik,Maharashtra,West,PROD113,Projector,Electronics,Display,Epson,1,42000,10,550,38350,Credit Card,Delivered,5,4.6,Online
+ORD051,2024-02-22,CUST1046,Sonali Joshi,26,Female,Aurangabad,Maharashtra,Central,PROD216,Belt,Accessories,Fashion,Woodland,2,1200,5,60,2340,Debit Card,Delivered,3,4.1,Store
+ORD052,2024-02-23,CUST1047,Varun Shetty,31,Male,Hubli,Karnataka,South,PROD320,Geyser,Home Appliances,Bathroom,Racold,1,12000,8,350,11390,UPI,Delivered,5,4.3,Online
+ORD053,2024-02-24,CUST1048,Megha Pillai,29,Female,Thrissur,Kerala,South,PROD217,Makeup Kit,Beauty,Cosmetics,Lakme,1,3500,15,100,3075,Credit Card,Delivered,3,4.5,Online
+ORD054,2024-02-25,CUST1049,Vishal Agarwal,36,Male,Agra,Uttar Pradesh,North,PROD545,Bicycle,Sports,Cycling,Hero,1,18000,10,600,16800,EMI,Delivered,6,4.4,Store
+ORD055,2024-02-26,CUST1050,Anjana Nair,27,Female,Kollam,Kerala,South,PROD218,Perfume,Beauty,Fragrance,Davidoff,2,4500,10,120,8220,Debit Card,Delivered,3,4.6,Online
+ORD056,2024-02-27,CUST1018,Anil Desai,39,Male,Vadodara,Gujarat,West,PROD114,Smart TV,Electronics,Entertainment,Mi,1,38000,15,800,33100,Credit Card,Delivered,5,4.7,Online
+ORD057,2024-02-28,CUST1051,Namita Rao,33,Female,Vijayawada,Andhra Pradesh,South,PROD440,Coffee Table,Furniture,Living Room,UrbanLadder,1,9500,12,400,8760,UPI,Delivered,6,4.2,Store
+ORD058,2024-02-29,CUST1052,Aryan Singh,25,Male,Meerut,Uttar Pradesh,North,PROD219,Cap,Accessories,Sports Wear,Adidas,3,800,5,60,2340,Cash on Delivery,Delivered,4,4.0,Online
+ORD059,2024-03-01,CUST1053,Deepa Menon,30,Female,Kozhikode,Kerala,South,PROD321,Chimney,Home Appliances,Kitchen,Faber,1,22000,12,600,19960,EMI,Delivered,7,4.5,Online
+ORD060,2024-03-02,CUST1054,Rajeev Kumar,42,Male,Gwalior,Madhya Pradesh,Central,PROD115,Router,Electronics,Networking,TP-Link,1,2500,8,100,2400,Debit Card,Delivered,3,4.3,Store
+ORD061,2024-03-03,CUST1055,Shweta Gupta,28,Female,Shimla,Himachal Pradesh,North,PROD220,Gloves,Accessories,Winter Wear,Puma,2,1200,10,80,2240,UPI,Delivered,5,4.1,Online
+ORD062,2024-03-04,CUST1022,Manish Jain,35,Male,Bhopal,Madhya Pradesh,Central,PROD550,Swimming Goggles,Sports,Swimming,Speedo,1,1500,5,60,1485,Credit Card,Delivered,4,4.2,Online
+ORD063,2024-03-05,CUST1056,Poornima Reddy,31,Female,Nellore,Andhra Pradesh,South,PROD221,Lipstick,Beauty,Makeup,MAC,3,2500,10,100,6850,Debit Card,Delivered,3,4.7,Store
+ORD064,2024-03-06,CUST1057,Naveen Sharma,37,Male,Jodhpur,Rajasthan,North,PROD322,Fan,Home Appliances,Cooling,Havells,2,3500,12,200,6360,UPI,Delivered,4,4.0,Online
+ORD065,2024-03-07,CUST1058,Riya Kapoor,24,Female,Noida,Uttar Pradesh,North,PROD116,Keyboard,Electronics,Accessories,Logitech,1,3500,10,120,3270,Credit Card,Delivered,2,4.4,Online
+ORD066,2024-03-08,CUST1059,Manoj Verma,40,Male,Raipur,Chhattisgarh,Central,PROD445,Bean Bag,Furniture,Living Room,Style Homez,2,4500,15,300,7950,EMI,Delivered,6,4.3,Store
+ORD067,2024-03-09,CUST1060,Kavya Iyer,26,Female,Salem,Tamil Nadu,South,PROD222,Necklace,Accessories,Jewelry,Malabar Gold,1,35000,8,200,32400,Debit Card,Delivered,4,4.8,Online
+ORD068,2024-03-10,CUST1061,Saurabh Jain,32,Male,Jamshedpur,Jharkhand,East,PROD117,Mouse,Electronics,Accessories,HP,2,800,5,60,1580,UPI,Delivered,4,4.1,Online
+ORD069,2024-03-11,CUST1001,Rajesh Kumar,34,Male,Mumbai,Maharashtra,West,PROD323,Blender,Home Appliances,Kitchen,Bajaj,1,3500,10,150,3300,Cash on Delivery,Delivered,3,4.2,Store
+ORD070,2024-03-12,CUST1062,Aditi Patel,29,Female,Anand,Gujarat,West,PROD223,Hair Dryer,Beauty,Hair Care,Philips,1,2500,12,100,2300,Credit Card,Delivered,4,4.4,Online
+ORD071,2024-03-13,CUST1063,Kunal Singh,35,Male,Allahabad,Uttar Pradesh,North,PROD555,Yoga Mat,Sports,Fitness,Nivia,2,1200,5,80,2360,Debit Card,Delivered,5,4.0,Online
+ORD072,2024-03-14,CUST1064,Neelam Rao,27,Female,Tirupati,Andhra Pradesh,South,PROD224,Face Cream,Beauty,Skincare,Olay,2,1500,10,80,2780,UPI,Delivered,3,4.3,Store
+ORD073,2024-03-15,CUST1065,Akash Mehta,31,Male,Ahmedabad,Gujarat,West,PROD118,Webcam,Electronics,Accessories,Logitech,1,4500,8,120,4260,Credit Card,Delivered,3,4.5,Online
+ORD074,2024-03-16,CUST1066,Prerna Gupta,28,Female,Ghaziabad,Uttar Pradesh,North,PROD225,Compact,Beauty,Makeup,Maybelline,2,800,5,60,1580,Debit Card,Delivered,3,4.2,Online
+ORD075,2024-03-17,CUST1067,Rahul Bose,39,Male,Siliguri,West Bengal,East,PROD324,Toaster,Home Appliances,Kitchen,Morphy Richards,1,2800,10,120,2640,UPI,Delivered,5,4.1,Store
+ORD076,2024-03-18,CUST1068,Shalini Iyer,26,Female,Ernakulam,Kerala,South,PROD226,Bracelet,Accessories,Jewelry,PC Jeweller,1,8500,10,100,7750,Credit Card,Delivered,4,4.6,Online
+ORD077,2024-03-19,CUST1069,Devesh Sharma,33,Male,Bikaner,Rajasthan,North,PROD560,Dumbbells,Sports,Fitness,Kore,1,3500,8,200,3420,EMI,Delivered,6,4.3,Online
+ORD078,2024-03-20,CUST1070,Tina Kapoor,25,Female,Gurgaon,Haryana,North,PROD227,Wallet,Accessories,Fashion,Fossil,1,3500,12,80,3160,Debit Card,Delivered,2,4.4,Store
+ORD079,2024-03-21,CUST1071,Sameer Patel,37,Male,Bharuch,Gujarat,West,PROD119,External Hard Drive,Electronics,Storage,Seagate,1,5500,10,150,5100,UPI,Delivered,4,4.5,Online
+ORD080,2024-03-22,CUST1072,Rashmi Nair,30,Female,Palakkad,Kerala,South,PROD228,Shampoo,Beauty,Hair Care,LOreal,3,600,5,60,1770,Cash on Delivery,Delivered,4,4.0,Online
+ORD081,2024-03-23,CUST1073,Mohit Verma,34,Male,Ujjain,Madhya Pradesh,Central,PROD325,Electric Kettle,Home Appliances,Kitchen,Prestige,2,1500,8,100,2860,Credit Card,Delivered,5,4.2,Store
+ORD082,2024-03-24,CUST1074,Shikha Singh,27,Female,Muzaffarpur,Bihar,East,PROD229,Handbag,Accessories,Bags,Lavie,1,2800,10,100,2620,Debit Card,Delivered,6,4.3,Online
+ORD083,2024-03-25,CUST1075,Prakash Reddy,41,Male,Guntur,Andhra Pradesh,South,PROD450,TV Stand,Furniture,Living Room,HomeTown,1,8500,12,400,7880,UPI,Delivered,7,4.1,Online
+ORD084,2024-03-26,CUST1076,Ishita Gupta,26,Female,Rohtak,Haryana,North,PROD230,Sunscreen,Beauty,Skincare,Neutrogena,2,1200,10,80,2240,Credit Card,Delivered,3,4.4,Store
+ORD085,2024-03-27,CUST1014,Karan Malhotra,36,Male,Chandigarh,Punjab,North,PROD120,Printer,Electronics,Office,Canon,1,15000,15,450,13200,EMI,Delivered,5,4.6,Online
+ORD086,2024-03-28,CUST1077,Jyoti Sharma,29,Female,Panipat,Haryana,North,PROD231,Eyeliner,Beauty,Makeup,Lakme,3,500,5,60,1485,Debit Card,Delivered,3,4.2,Online
+ORD087,2024-03-29,CUST1078,Nitin Patel,35,Male,Vapi,Gujarat,West,PROD326,Induction Cooktop,Home Appliances,Kitchen,Prestige,1,4500,10,180,4230,UPI,Delivered,4,4.3,Store
+ORD088,2024-03-30,CUST1079,Shubham Roy,28,Male,Durgapur,West Bengal,East,PROD565,Running Shoes,Sports,Footwear,Nike,1,6500,12,150,5870,Credit Card,Delivered,5,4.5,Online
+ORD089,2024-03-31,CUST1080,Nandini Rao,31,Female,Rajahmundry,Andhra Pradesh,South,PROD232,Eyeshadow Palette,Beauty,Makeup,NYX,1,2500,10,100,2350,Debit Card,Delivered,4,4.6,Store
+ORD090,2024-04-01,CUST1081,Ashish Kumar,38,Male,Dhanbad,Jharkhand,East,PROD121,UPS,Electronics,Power Backup,APC,1,8500,12,300,7780,UPI,Delivered,6,4.4,Online
+ORD091,2024-04-02,CUST1082,Snehal Desai,27,Female,Gandhinagar,Gujarat,West,PROD233,Foundation,Beauty,Makeup,Maybelline,2,1500,8,80,2840,Cash on Delivery,Delivered,4,4.3,Online
+ORD092,2024-04-03,CUST1083,Yash Sharma,32,Male,Kurukshetra,Haryana,North,PROD327,Coffee Maker,Home Appliances,Kitchen,Nespresso,1,12000,15,350,10550,EMI,Delivered,5,4.7,Store
+ORD093,2024-04-04,CUST1084,Payal Singh,26,Female,Gorakhpur,Uttar Pradesh,North,PROD234,Nail Polish,Beauty,Nails,Elle18,4,200,5,60,820,Debit Card,Delivered,4,4.0,Online
+ORD094,2024-04-05,CUST1085,Pankaj Joshi,40,Male,Bilaspur,Chhattisgarh,Central,PROD455,Computer Table,Furniture,Office,Nilkamal,1,6500,10,350,6200,UPI,Delivered,6,4.2,Online
+ORD095,2024-04-06,CUST1086,Anushka Pillai,28,Female,Kannur,Kerala,South,PROD235,Face Wash,Beauty,Skincare,Garnier,3,400,10,60,1140,Credit Card,Delivered,4,4.1,Store
+ORD096,2024-04-07,CUST1087,Aakash Verma,34,Male,Jabalpur,Madhya Pradesh,Central,PROD122,Pen Drive,Electronics,Storage,SanDisk,2,800,5,60,1580,Debit Card,Delivered,3,4.3,Online
+ORD097,2024-04-08,CUST1088,Roshni Iyer,29,Female,Alappuzha,Kerala,South,PROD236,Moisturizer,Beauty,Skincare,Ponds,2,600,8,60,1164,UPI,Delivered,4,4.2,Online
+ORD098,2024-04-09,CUST1089,Tarun Patel,36,Male,Nadiad,Gujarat,West,PROD570,Badminton Set,Sports,Badminton,Cosco,1,2500,10,120,2370,Cash on Delivery,Delivered,5,4.0,Store
+ORD099,2024-04-10,CUST1090,Bhavana Rao,27,Female,Karimnagar,Telangana,South,PROD237,Lipgloss,Beauty,Makeup,Colorbar,2,800,5,60,1580,Credit Card,Delivered,4,4.4,Online
+ORD100,2024-04-11,CUST1091,Hemant Singh,39,Male,Bareilly,Uttar Pradesh,North,PROD328,Room Heater,Home Appliances,Heating,Bajaj,1,3500,12,180,3260,Debit Card,Delivered,5,4.1,Store
+ORD101,2024-04-12,CUST1092,Divya Nair,25,Female,Trichur,Kerala,South,PROD238,Perfume,Beauty,Fragrance,Engage,1,1200,10,80,1160,UPI,Delivered,3,4.3,Online
+ORD102,2024-04-13,CUST1093,Aman Khanna,31,Male,Sonipat,Haryana,North,PROD123,Webcam,Electronics,Accessories,Microsoft,1,6500,10,150,6000,Credit Card,Delivered,3,4.5,Online
+ORD103,2024-04-14,CUST1094,Nidhi Sharma,28,Female,Mathura,Uttar Pradesh,North,PROD239,Hair Straightener,Beauty,Hair Care,Philips,1,3500,12,120,3200,EMI,Delivered,4,4.4,Store
+ORD104,2024-04-15,CUST1095,Sunil Reddy,42,Male,Kadapa,Andhra Pradesh,South,PROD460,Recliner,Furniture,Living Room,Durian,1,28000,15,900,24730,Debit Card,Delivered,7,4.6,Online
+ORD105,2024-04-16,CUST1096,Tanmay Joshi,30,Male,Nashik,Maharashtra,West,PROD329,Water Heater,Home Appliances,Bathroom,Havells,1,9500,10,350,8900,UPI,Delivered,5,4.3,Online
+ORD106,2024-04-17,CUST1097,Pooja Menon,26,Female,Wayanad,Kerala,South,PROD240,Face Mask,Beauty,Skincare,Himalaya,4,300,5,60,1200,Cash on Delivery,Delivered,5,4.0,Store
+ORD107,2024-04-18,CUST1098,Rajiv Patel,37,Male,Mehsana,Gujarat,West,PROD575,Cricket Ball,Sports,Cricket,SG,3,800,0,80,2480,Credit Card,Delivered,4,4.2,Online
+ORD108,2024-04-19,CUST1099,Kaveri Singh,29,Female,Firozabad,Uttar Pradesh,North,PROD241,Kajal,Beauty,Makeup,Lakme,3,300,10,60,870,Debit Card,Delivered,4,4.1,Online
+ORD109,2024-04-20,CUST1100,Ajay Kumar,35,Male,Bokaro,Jharkhand,East,PROD124,Smartwatch,Electronics,Wearables,Noise,1,5500,15,150,4825,UPI,Delivered,5,4.4,Online
+ORD110,2024-04-21,CUST1007,Suresh Nair,38,Male,Bangalore,Karnataka,South,PROD330,Dishwasher,Home Appliances,Kitchen,Bosch,1,45000,20,1200,37200,EMI,Delivered,6,4.8,Store
+ORD111,2024-04-22,CUST1101,Sunita Gupta,32,Female,Agartala,Tripura,East,PROD242,Conditioner,Beauty,Hair Care,Dove,2,500,8,60,980,Credit Card,Delivered,7,4.2,Online
+ORD112,2024-04-23,CUST1102,Ashok Rao,41,Male,Ongole,Andhra Pradesh,South,PROD465,Swing,Furniture,Garden,Nilkamal,1,15000,12,600,13800,Debit Card,Delivered,8,4.3,Store
+ORD113,2024-04-24,CUST1103,Richa Sharma,27,Female,Hapur,Uttar Pradesh,North,PROD243,Body Lotion,Beauty,Skincare,Vaseline,3,400,10,60,1140,UPI,Delivered,4,4.1,Online
+ORD114,2024-04-25,CUST1104,Dinesh Patel,36,Male,Ankleshwar,Gujarat,West,PROD125,LED Bulbs,Electronics,Lighting,Philips,6,250,5,80,1505,Cash on Delivery,Delivered,3,4.0,Store
+ORD115,2024-04-26,CUST1105,Sangeeta Iyer,30,Female,Kasaragod,Kerala,South,PROD244,Blush,Beauty,Makeup,Sugar,2,800,10,60,1500,Credit Card,Delivered,4,4.5,Online
+ORD116,2024-04-27,CUST1106,Pramod Singh,33,Male,Saharanpur,Uttar Pradesh,North,PROD580,Football Shoes,Sports,Football,Adidas,1,4500,12,150,4110,Debit Card,Delivered,5,4.4,Online
+ORD117,2024-04-28,CUST1107,Maya Reddy,28,Female,Eluru,Andhra Pradesh,South,PROD245,Hair Serum,Beauty,Hair Care,LOreal,1,1200,8,80,1184,UPI,Delivered,4,4.3,Store
+ORD118,2024-04-29,CUST1108,Vikas Joshi,39,Male,Korba,Chhattisgarh,Central,PROD331,Ceiling Fan,Home Appliances,Cooling,Orient,2,2500,10,200,4700,Credit Card,Delivered,6,4.2,Online
+ORD119,2024-04-30,CUST1109,Preeti Nair,26,Female,Idukki,Kerala,South,PROD246,Lip Balm,Beauty,Lips,Nivea,4,150,5,60,630,Debit Card,Delivered,4,4.0,Online
+ORD120,2024-05-01,CUST1110,Ramesh Kumar,43,Male,Darbhanga,Bihar,East,PROD470,Shoe Rack,Furniture,Storage,Nilkamal,1,3500,10,180,3330,UPI,Delivered,6,4.1,Store
+ORD121,2024-05-02,CUST1111,Anjali Sharma,29,Female,Aligarh,Uttar Pradesh,North,PROD247,Face Scrub,Beauty,Skincare,Biotique,2,600,10,60,1140,Cash on Delivery,Delivered,5,4.2,Online
+ORD122,2024-05-03,CUST1112,Sanjiv Patel,35,Male,Surendranagar,Gujarat,West,PROD126,USB Cable,Electronics,Accessories,Boat,3,300,5,60,915,Credit Card,Delivered,3,4.0,Online
+ORD123,2024-05-04,CUST1113,Deepika Iyer,27,Female,Malappuram,Kerala,South,PROD248,Compact Powder,Beauty,Makeup,Lakme,1,500,8,60,520,Debit Card,Delivered,4,4.3,Store
+ORD124,2024-05-05,CUST1114,Kailash Singh,38,Male,Muzaffarnagar,Uttar Pradesh,North,PROD585,Carrom Board,Sports,Indoor,Surco,1,3500,10,200,3350,UPI,Delivered,5,4.1,Online
+ORD125,2024-05-06,CUST1115,Swapna Rao,31,Female,Anantapur,Andhra Pradesh,South,PROD249,Hair Oil,Beauty,Hair Care,Parachute,3,250,5,60,773,Credit Card,Delivered,4,4.2,Online
+ORD126,2024-05-07,CUST1116,Arun Kumar,34,Male,Asansol,West Bengal,East,PROD332,Table Fan,Home Appliances,Cooling,Usha,1,2200,8,120,2144,Debit Card,Delivered,5,4.0,Store
+ORD127,2024-05-08,CUST1117,Ritu Gupta,28,Female,Jammu,Jammu and Kashmir,North,PROD250,Deodorant,Beauty,Fragrance,AXE,2,400,10,60,780,UPI,Delivered,6,4.3,Online
+ORD128,2024-05-09,CUST1025,Divya Pillai,26,Female,Kochi,Kerala,South,PROD127,Earphones,Electronics,Audio,Boat,1,1500,12,80,1400,Cash on Delivery,Delivered,3,4.4,Online
+ORD129,2024-05-10,CUST1118,Sudhir Patel,40,Male,Jamnagar,Gujarat,West,PROD475,Clothes Hanger,Furniture,Storage,HomeStrap,2,800,5,80,1600,Credit Card,Delivered,4,4.0,Store
+ORD130,2024-05-11,CUST1119,Lavanya Reddy,29,Female,Nalgonda,Telangana,South,PROD251,Night Cream,Beauty,Skincare,Ponds,1,800,10,60,780,Debit Card,Delivered,4,4.4,Online
+ORD131,2024-05-12,CUST1120,Mahesh Singh,36,Male,Moradabad,Uttar Pradesh,North,PROD590,Table Tennis Set,Sports,Table Tennis,Stag,1,4500,8,180,4320,UPI,Delivered,5,4.3,Online
+ORD132,2024-05-13,CUST1121,Priya Nair,27,Female,Ottapalam,Kerala,South,PROD252,Hair Mask,Beauty,Hair Care,LOreal,1,1200,12,80,1136,Credit Card,Delivered,4,4.5,Store
+ORD133,2024-05-14,CUST1122,Naveen Kumar,33,Male,Rourkela,Odisha,East,PROD333,Rice Cooker,Home Appliances,Kitchen,Prestige,1,3500,10,150,3300,Debit Card,Delivered,6,4.2,Online
+ORD134,2024-05-15,CUST1123,Smriti Sharma,25,Female,Panipat,Haryana,North,PROD253,Mascara,Beauty,Makeup,Maybelline,1,800,10,60,780,UPI,Delivered,3,4.4,Online
+ORD135,2024-05-16,CUST1124,Piyush Patel,37,Male,Bhavnagar,Gujarat,West,PROD128,Memory Card,Electronics,Storage,SanDisk,2,1200,8,80,2288,Cash on Delivery,Delivered,4,4.1,Store
+ORD136,2024-05-17,CUST1125,Anita Iyer,30,Female,Pathanamthitta,Kerala,South,PROD254,Body Wash,Beauty,Bath,Nivea,2,500,10,60,960,Credit Card,Delivered,4,4.2,Online
+ORD137,2024-05-18,CUST1126,Raghav Singh,35,Male,Jhansi,Uttar Pradesh,North,PROD480,Wall Shelf,Furniture,Storage,Home Sparkle,1,2500,12,150,2350,Debit Card,Delivered,5,4.0,Online
+ORD138,2024-05-19,CUST1127,Vidya Rao,28,Female,Chittoor,Andhra Pradesh,South,PROD255,Face Toner,Beauty,Skincare,Biotique,1,600,8,60,612,UPI,Delivered,4,4.3,Store
+ORD139,2024-05-20,CUST1128,Girish Kumar,41,Male,Sambalpur,Odisha,East,PROD334,Hand Blender,Home Appliances,Kitchen,Inalsa,1,2500,10,120,2370,Credit Card,Delivered,6,4.1,Online
+ORD140,2024-05-21,CUST1129,Shraddha Gupta,26,Female,Karnal,Haryana,North,PROD256,Eye Cream,Beauty,Skincare,Olay,1,1500,12,80,1400,Debit Card,Delivered,3,4.5,Online
+ORD141,2024-05-22,CUST1130,Kishore Patel,34,Male,Porbandar,Gujarat,West,PROD595,Chess Set,Sports,Board Games,Stonkraft,1,2500,8,120,2420,UPI,Delivered,4,4.2,Store
+ORD142,2024-05-23,CUST1131,Lakshmi Nair,29,Female,Thrissur,Kerala,South,PROD257,Sunscreen,Beauty,Skincare,Neutrogena,1,1200,10,80,1160,Cash on Delivery,Delivered,4,4.4,Online
+ORD143,2024-05-24,CUST1043,Aditya Nair,27,Male,Thiruvananthapuram,Kerala,South,PROD129,Smart Speaker,Electronics,Audio,Amazon Echo,1,8500,15,200,7425,Credit Card,Delivered,3,4.6,Online
+ORD144,2024-05-25,CUST1132,Rakesh Singh,38,Male,Gaya,Bihar,East,PROD485,Center Table,Furniture,Living Room,UrbanLadder,1,12000,15,500,10700,EMI,Delivered,7,4.3,Store
+ORD145,2024-05-26,CUST1133,Sneha Rao,27,Female,Kurnool,Andhra Pradesh,South,PROD258,BB Cream,Beauty,Makeup,Garnier,1,600,10,60,600,Debit Card,Delivered,4,4.2,Online
+ORD146,2024-05-27,CUST1134,Vinod Kumar,42,Male,Bhagalpur,Bihar,East,PROD335,Sandwich Maker,Home Appliances,Kitchen,Prestige,1,2000,8,100,1940,UPI,Delivered,6,4.0,Online
+ORD147,2024-05-28,CUST1135,Kritika Sharma,25,Female,Ambala,Haryana,North,PROD259,Primer,Beauty,Makeup,Colorbar,1,1200,12,80,1136,Credit Card,Delivered,3,4.4,Store
+ORD148,2024-05-29,CUST1136,Hitesh Patel,36,Male,Junagadh,Gujarat,West,PROD130,Gaming Mouse,Electronics,Gaming,Logitech,1,3500,10,120,3270,Debit Card,Delivered,4,4.5,Online
+ORD149,2024-05-30,CUST1137,Manisha Iyer,28,Female,Kottayam,Kerala,South,PROD260,Hair Spa Cream,Beauty,Hair Care,LOreal,1,1800,12,100,1684,UPI,Delivered,4,4.3,Online
+ORD150,2024-05-31,CUST1138,Ajit Singh,39,Male,Rampur,Uttar Pradesh,North,PROD600,Treadmill,Sports,Fitness,Cockatoo,1,35000,20,1500,29500,EMI,Delivered,8,4.6,Store
+ORD151,2024-06-01,CUST1139,Poornima Reddy,30,Female,Tirupati,Andhra Pradesh,South,PROD261,Serum,Beauty,Skincare,Biotique,1,1500,10,80,1430,Credit Card,Delivered,4,4.5,Online
+ORD152,2024-06-02,CUST1140,Santosh Kumar,35,Male,Cuttack,Odisha,East,PROD336,Grinder,Home Appliances,Kitchen,Bajaj,1,4500,10,200,4250,Debit Card,Delivered,6,4.2,Store
+ORD153,2024-06-03,CUST1141,Naina Gupta,26,Female,Hisar,Haryana,North,PROD262,Face Mask Sheet,Beauty,Skincare,The Face Shop,5,150,5,60,772.5,UPI,Delivered,3,4.1,Online
+ORD154,2024-06-04,CUST1142,Jignesh Patel,37,Male,Morbi,Gujarat,West,PROD131,Extension Cord,Electronics,Accessories,Anchor,2,600,5,80,1220,Cash on Delivery,Delivered,4,4.0,Online
+ORD155,2024-06-05,CUST1143,Archana Nair,29,Female,Alappuzha,Kerala,South,PROD263,Lip Tint,Beauty,Makeup,Nykaa,2,500,10,60,960,Credit Card,Delivered,4,4.4,Store
+ORD156,2024-06-06,CUST1144,Pavan Singh,33,Male,Shahjahanpur,Uttar Pradesh,North,PROD490,Study Chair,Furniture,Office,UrbanLadder,1,7500,12,350,6950,Debit Card,Delivered,5,4.3,Online
+ORD157,2024-06-07,CUST1145,Suman Rao,31,Female,Srikakulam,Andhra Pradesh,South,PROD264,Anti-Aging Cream,Beauty,Skincare,Olay,1,2000,15,100,1800,UPI,Delivered,5,4.6,Online
+ORD158,2024-06-08,CUST1146,Alok Kumar,40,Male,Purnia,Bihar,East,PROD337,Juicer,Home Appliances,Kitchen,Philips,1,5500,12,250,5090,EMI,Delivered,6,4.4,Store
+ORD159,2024-06-09,CUST1147,Tanuja Sharma,27,Female,Yamunanagar,Haryana,North,PROD265,Concealer,Beauty,Makeup,Maybelline,1,700,10,60,690,Credit Card,Delivered,3,4.2,Online
+ORD160,2024-06-10,CUST1148,Bharat Patel,38,Male,Patan,Gujarat,West,PROD605,Cricket Helmet,Sports,Cricket,SG,1,3500,8,150,3370,Debit Card,Delivered,4,4.3,Online
+ORD161,2024-06-11,CUST1149,Revathi Iyer,28,Female,Tirur,Kerala,South,PROD266,Hand Cream,Beauty,Skincare,Nivea,2,400,10,60,780,UPI,Delivered,4,4.1,Store
+ORD162,2024-06-12,CUST1150,Sandeep Singh,34,Male,Etawah,Uttar Pradesh,North,PROD132,Charging Cable,Electronics,Accessories,Boat,3,400,5,60,1200,Cash on Delivery,Delivered,4,4.0,Online
+ORD163,2024-06-13,CUST1019,Meera Iyer,28,Female,Coimbatore,Tamil Nadu,South,PROD338,Steam Iron,Home Appliances,Laundry,Philips,1,3500,12,150,3230,Credit Card,Delivered,4,4.5,Online
+ORD164,2024-06-14,CUST1151,Amar Reddy,36,Female,Vizianagaram,Andhra Pradesh,South,PROD267,Nail Art Kit,Beauty,Nails,Lakme,1,1200,10,80,1160,Debit Card,Delivered,5,4.3,Store
+ORD165,2024-06-15,CUST1152,Rajeev Kumar,41,Male,Madhubani,Bihar,East,PROD495,Folding Chair,Furniture,Outdoor,Nilkamal,2,1500,8,150,2910,UPI,Delivered,6,4.1,Online
+ORD166,2024-06-16,CUST1153,Meenakshi Gupta,29,Female,Sirsa,Haryana,North,PROD268,Body Scrub,Beauty,Bath,Biotique,2,600,12,60,1116,Credit Card,Delivered,3,4.4,Online
+ORD167,2024-06-17,CUST1154,Paresh Patel,35,Male,Veraval,Gujarat,West,PROD133,Tripod,Electronics,Photography,Digitek,1,2500,10,120,2370,Debit Card,Delivered,4,4.2,Store
+ORD168,2024-06-18,CUST1155,Bindu Nair,27,Female,Malappuram,Kerala,South,PROD269,Foot Cream,Beauty,Skincare,Himalaya,2,300,5,60,630,UPI,Delivered,4,4.0,Online
+ORD169,2024-06-19,CUST1156,Yogesh Singh,37,Male,Fatehpur,Uttar Pradesh,North,PROD610,Badminton Net,Sports,Badminton,Cosco,1,1500,5,100,1525,Cash on Delivery,Delivered,5,4.1,Online
+ORD170,2024-06-20,CUST1157,Shilpa Rao,30,Female,Prakasam,Andhra Pradesh,South,PROD270,Blush Palette,Beauty,Makeup,Sugar,1,1500,12,80,1400,Credit Card,Delivered,4,4.5,Store
+ORD171,2024-06-21,CUST1158,Dilip Kumar,43,Male,Begusarai,Bihar,East,PROD339,Electric Chimney,Home Appliances,Kitchen,Elica,1,28000,18,900,23820,EMI,Delivered,7,4.7,Online
+ORD172,2024-06-22,CUST1159,Komal Sharma,26,Female,Panchkula,Haryana,North,PROD271,Hair Color,Beauty,Hair Care,Garnier,1,300,8,60,336,Debit Card,Delivered,3,4.2,Online
+ORD173,2024-06-23,CUST1160,Mehul Patel,34,Male,Amreli,Gujarat,West,PROD134,Laptop Bag,Electronics,Accessories,Safari,1,2500,10,120,2370,UPI,Delivered,4,4.3,Store
+ORD174,2024-06-24,CUST1161,Gayatri Nair,28,Female,Palakkad,Kerala,South,PROD272,Face Wipes,Beauty,Skincare,Ponds,3,200,5,60,630,Cash on Delivery,Delivered,4,4.0,Online
+ORD175,2024-06-25,CUST1162,Ashwini Singh,32,Male,Sultanpur,Uttar Pradesh,North,PROD615,Boxing Gloves,Sports,Boxing,Everlast,1,3500,10,150,3300,Credit Card,Delivered,5,4.4,Online
+ORD176,2024-06-26,CUST1163,Lata Reddy,29,Female,Kadapa,Andhra Pradesh,South,PROD273,Bronzer,Beauty,Makeup,Nykaa,1,1200,10,80,1160,Debit Card,Delivered,4,4.3,Store
+ORD177,2024-06-27,CUST1164,Suhas Kumar,39,Male,Munger,Bihar,East,PROD340,Electric Cooker,Home Appliances,Kitchen,Bajaj,1,3500,10,180,3330,UPI,Delivered,6,4.1,Online
+ORD178,2024-06-28,CUST1165,Vandana Gupta,27,Female,Rewari,Haryana,North,PROD274,Makeup Remover,Beauty,Skincare,Garnier,2,500,8,60,980,Credit Card,Delivered,3,4.2,Online
+ORD179,2024-06-29,CUST1166,Jayesh Patel,36,Male,Botad,Gujarat,West,PROD135,HDMI Cable,Electronics,Accessories,Belkin,2,600,5,80,1220,Debit Card,Delivered,4,4.0,Store
+ORD180,2024-06-30,CUST1167,Smitha Nair,30,Female,Kannur,Kerala,South,PROD275,Facial Kit,Beauty,Skincare,VLCC,1,2500,15,120,2245,UPI,Delivered,4,4.6,Online
+ORD181,2024-07-01,CUST1168,Ankit Singh,33,Male,Banda,Uttar Pradesh,North,PROD620,Skipping Rope,Sports,Fitness,Nivia,2,400,5,80,840,Cash on Delivery,Delivered,5,4.1,Online
+ORD182,2024-07-02,CUST1169,Padma Rao,31,Female,Nellore,Andhra Pradesh,South,PROD276,Highlighter,Beauty,Makeup,Sugar,1,1500,12,80,1400,Credit Card,Delivered,4,4.5,Store
+ORD183,2024-07-03,CUST1170,Brijesh Kumar,40,Male,Samastipur,Bihar,East,PROD341,Egg Boiler,Home Appliances,Kitchen,Prestige,1,1500,8,100,1480,Debit Card,Delivered,5,4.0,Online
+ORD184,2024-07-04,CUST1171,Shivani Sharma,25,Female,Jind,Haryana,North,PROD277,Setting Spray,Beauty,Makeup,Nykaa,1,800,10,60,780,UPI,Delivered,3,4.4,Online
+ORD185,2024-07-05,CUST1172,Nilesh Patel,37,Male,Dahod,Gujarat,West,PROD136,Phone Stand,Electronics,Accessories,Portronics,1,500,5,60,535,Credit Card,Delivered,3,4.1,Store
+ORD186,2024-07-06,CUST1173,Arya Iyer,28,Female,Kozhikode,Kerala,South,PROD278,Face Powder,Beauty,Makeup,Lakme,1,600,10,60,600,Debit Card,Delivered,4,4.2,Online
+ORD187,2024-07-07,CUST1174,Chandan Singh,34,Male,Ballia,Uttar Pradesh,North,PROD625,Volleyball,Sports,Volleyball,Nivia,1,1800,8,120,1776,UPI,Delivered,5,4.3,Online
+ORD188,2024-07-08,CUST1175,Jayanthi Reddy,29,Female,Chittoor,Andhra Pradesh,South,PROD279,Gel,Beauty,Hair Care,Set Wet,3,250,5,60,772.5,Cash on Delivery,Delivered,4,4.0,Store
+ORD189,2024-07-09,CUST1176,Vinay Kumar,41,Male,Kishanganj,Bihar,East,PROD342,Hand Mixer,Home Appliances,Kitchen,Inalsa,1,2200,10,120,2100,Credit Card,Delivered,6,4.2,Online
+ORD190,2024-07-10,CUST1177,Jyotsna Gupta,26,Female,Kaithal,Haryana,North,PROD280,Cleanser,Beauty,Skincare,Cetaphil,1,1200,12,80,1136,Debit Card,Delivered,3,4.5,Online
+ORD191,2024-07-11,CUST1178,Ketan Patel,35,Male,Navsari,Gujarat,West,PROD137,Phone Cover,Electronics,Accessories,Spigen,2,800,8,60,1532,UPI,Delivered,3,4.1,Store
+ORD192,2024-07-12,CUST1179,Radhika Nair,27,Female,Wayanad,Kerala,South,PROD281,Shaving Cream,Beauty,Men Grooming,Gillette,2,300,5,60,630,Credit Card,Delivered,4,4.0,Online
+ORD193,2024-07-13,CUST1180,Bhupendra Singh,38,Male,Azamgarh,Uttar Pradesh,North,PROD630,Cricket Pads,Sports,Cricket,SS,1,4500,10,200,4250,EMI,Delivered,6,4.4,Store
+ORD194,2024-07-14,CUST1181,Vaidehi Rao,30,Female,Kurnool,Andhra Pradesh,South,PROD282,Eyelash Curler,Beauty,Makeup,Faces Canada,1,400,10,60,420,Debit Card,Delivered,4,4.2,Online
+ORD195,2024-07-15,CUST1182,Pawan Kumar,42,Male,Jehanabad,Bihar,East,PROD343,Dry Iron,Home Appliances,Laundry,Usha,1,1800,8,100,1756,UPI,Delivered,5,4.1,Online
+ORD196,2024-07-16,CUST1183,Garima Sharma,28,Female,Mahendragarh,Haryana,North,PROD283,Face Serum,Beauty,Skincare,Minimalist,1,1500,15,80,1355,Credit Card,Delivered,3,4.6,Store
+ORD197,2024-07-17,CUST1184,Umesh Patel,36,Male,Banaskantha,Gujarat,West,PROD138,Screen Guard,Electronics,Accessories,AmazonBasics,3,200,5,60,630,Debit Card,Delivered,3,4.0,Online
+ORD198,2024-07-18,CUST1185,Vidya Nair,29,Female,Idukki,Kerala,South,PROD284,Micellar Water,Beauty,Skincare,Garnier,1,600,10,60,600,UPI,Delivered,4,4.3,Online
+ORD199,2024-07-19,CUST1186,Akhilesh Singh,33,Male,Gonda,Uttar Pradesh,North,PROD635,Basketball,Sports,Basketball,Nivia,1,2500,8,150,2450,Cash on Delivery,Delivered,5,4.2,Store
+ORD200,2024-07-20,CUST1187,Geetha Reddy,31,Female,Prakasam,Andhra Pradesh,South,PROD285,Acne Cream,Beauty,Skincare,Himalaya,2,500,10,60,960,Credit Card,Delivered,4,4.4,Online
