@@ -1,0 +1,21 @@
+employee_id,name,department,salary,age,sales_amount,join_date,performance_score
+101,John Smith,Sales,55000,28,12500,2020-03-15,8.5
+102,Maria Garcia,,62000,34,15800,2019-07-22,9.2
+103,James Wilson,Marketing,48000,,11200,2021-01-10,
+104,Lisa Anderson,Sales,,29,14500,2020-11-05,7.8
+105,Robert Brown,IT,75000,42,,2018-05-18,8.9
+106,,Marketing,51000,31,9800,,8.1
+107,Emily Davis,Sales,58000,27,16200,2021-06-30,9.5
+108,Michael Lee,,69000,38,,2019-02-14,
+109,Sarah Taylor,IT,,33,13400,2020-09-25,8.3
+110,David Martinez,Marketing,54000,,,2021-03-08,7.9
+111,Jennifer White,Sales,61000,30,17500,,
+112,Christopher Johnson,,57000,35,12800,2019-12-01,8.7
+113,,IT,72000,40,14900,2018-08-20,9.1
+114,Amanda Thompson,Marketing,,28,,2021-04-15,7.5
+115,Daniel Garcia,Sales,59000,,15600,2020-07-10,
+116,Jessica Martinez,,63000,36,13200,2019-10-05,8.8
+117,Matthew Brown,IT,76000,44,,,9.3
+118,Ashley Wilson,Marketing,52000,32,10500,2021-02-20,
+119,Joshua Davis,,,,14100,2020-05-12,8.4
+120,Michelle Anderson,Sales,60000,29,,2021-08-18,8.6
