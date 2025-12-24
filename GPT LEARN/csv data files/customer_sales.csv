@@ -1,0 +1,53 @@
+customer_id,customer_name,email,phone,age,gender,city,country,registration_date,product_category,purchase_amount,quantity,discount,payment_method,shipping_status,customer_rating,last_purchase_date
+C001,John Smith,john.smith@email.com,555-1234,28,Male,New York,USA,2023-01-15,Electronics,1200.50,2,10,Credit Card,Delivered,4.5,2024-11-20
+C002,MARIA GARCIA,maria@email.com,555-2345,34,Female,Los Angeles,usa,01/20/2023,Clothing,450.75,5,15,PayPal,Shipped,5,2024-11-18
+C003,james wilson,jameswilson@email,555-3456,-5,Male,Chicago,,2023-02-10,Electronics,2500,1,20,Credit Card,Delivered,4.8,2024-11-15
+C004,Lisa Anderson,lisa.anderson@email.com,,29,F,Houston,USA,2023-03-05,Home & Garden,780.25,3,10,Debit Card,Delivered,,2024-11-22
+C005,Robert Brown,robert.brown@email.com,555-5678,42,Male,Phoenix,USA,2023-04-12,Electronics,,2,5,Credit Card,Shipped,4.2,2024-11-19
+C006,,unknown@email.com,555-6789,31,Female,Philadelphia,USA,2023-05-18,Clothing,320.00,4,0,PayPal,Cancelled,3.5,2024-11-10
+C007,Emily Davis,emily.davis@email.com,555-7890,27,Female,San Antonio,USA,15-06-2023,Books,125.50,8,10,Credit Card,,4.9,2024-11-25
+C002,Maria Garcia,maria.garcia@email.com,555-2345,34,Female,Los Angeles,USA,2023-01-20,Electronics,890.00,1,15,PayPal,Delivered,4.7,2024-11-16
+C008,Michael  Lee,michael.lee@email.com,555-8901,150,Male,San Diego,USA,2023-07-22,Sports,560.80,2,20,Credit Card,Delivered,4.6,2024-11-14
+C009,Sarah Taylor,sarah@invalid,555-9012,33,Female,,USA,2023-08-30,Electronics,1450.00,1,10,Debit Card,Shipped,5,2024-11-21
+C010,David Martinez,david.martinez@email.com,555-0123,,male,Dallas,USA,2023-09-15,Home & Garden,670.30,3,5,Credit Card,Delivered,4.3,2024-11-17
+C011,Jennifer White,jennifer.white@email.com,,30,Female,San Jose,USA,2023-10-20,Clothing,NULL,6,15,PayPal,Shipped,,2024-11-12
+C012,christopher johnson,chris@email.com,555-1235,35,M,Austin,USA,2023-11-25,Electronics,1890.00,2,10,Credit Card,Delivered,4.8,2024-11-23
+C013,Amanda Thompson,amanda.t@email.com,555-2346,28,Female,Jacksonville,United States,2023-12-10,Books,95.75,10,0,PayPal,Delivered,4.4,2024-11-11
+C014,Daniel Garcia,daniel.garcia@email.com,555-3457,-10,Male,San Francisco,USA,2024-01-15,Sports,0,4,20,Credit Card,Returned,2.5,2024-11-09
+C015,Jessica Martinez,jessica@email,555-4568,36,Female,Columbus,USA,2024-02-20,Clothing,540.00,5,,Debit Card,Shipped,4.6,2024-11-24
+C016,Matthew Brown,matthew.brown@email.com,555-5679,44,Male,Charlotte,USA,15/03/2024,Electronics,3200.50,1,15,Credit Card,Delivered,5,2024-11-13
+C017,Ashley Wilson,ashley.wilson@email.com,invalid-phone,32,F,Fort Worth,USA,2024-04-18,Home & Garden,NULL,3,10,PayPal,,4.2,2024-11-08
+C018,Joshua Davis,joshua.davis@email.com,555-7891,,Male,Indianapolis,USA,2024-05-22,Electronics,1560.00,2,20,Credit Card,Delivered,4.9,2024-11-26
+C019,Michelle Anderson,michelle@email.com,555-8902,29,Female,Seattle,USA,22-06-2024,Clothing,410.50,7,10,PayPal,Shipped,4.5,2024-11-07
+C020,Andrew Thomas,andrew.thomas@email.com,555-9013,41,Male,,USA,2024-07-30,Sports,890.00,2,5,Debit Card,Delivered,,2024-11-27
+C021,Stephanie Moore,stephanie.m@email,555-0124,33,Female,Denver,USA,2024-08-15,Books,150.25,12,0,Credit Card,Delivered,4.7,2024-11-06
+C022,Brandon Jackson,brandon.jackson@email.com,,26,Male,Washington,USA,2024-09-10,Electronics,2100.00,1,15,PayPal,Shipped,4.8,2024-11-28
+C023,Nicole Martin,nicole.martin@email.com,555-1236,30,Female,Boston,USA,2024-10-05,Clothing,-50.00,5,10,Credit Card,Cancelled,1.5,2024-11-05
+C024,,tech@email.com,555-2347,999,Male,Portland,USA,2024-11-01,Electronics,1780.00,2,20,Debit Card,Delivered,4.6,2024-11-04
+C025,Rachel Harris,rachel.harris@email.com,555-3458,28,Female,Las Vegas,USA,2024-11-15,Home & Garden,NULL,4,5,PayPal,Shipped,,2024-11-29
+C026,Justin Clark,justin.clark@email.com,555-4569,43,Male,Detroit,USA,n/a,Sports,720.50,3,10,Credit Card,Delivered,4.4,2024-11-03
+C027,Melissa Lewis,melissa@invalid,555-5680,34,F,Memphis,USA,2024-11-20,Books,180.00,15,0,PayPal,Delivered,4.9,2024-11-02
+C028,Ryan Robinson,ryan.robinson@email.com,555-6790,,Male,Baltimore,USA,2023-03-25,Electronics,1950.00,1,15,Credit Card,Shipped,4.7,2024-11-01
+C029,Laura Walker,laura.walker@email.com,555-7892,39,Female,Milwaukee,USA,2023-04-30,Clothing,380.00,6,20,Debit Card,,4.3,2024-10-31
+C030,Brian Hall,brian.hall@email.com,555-8903,29,male,Albuquerque,USA,2023-05-15,Home & Garden,520.75,3,10,PayPal,Delivered,4.6,2024-10-30
+C011,Jennifer White,jennifer.white@email.com,555-0123,30,Female,San Jose,USA,2023-10-20,Electronics,1250.00,2,15,PayPal,Delivered,4.5,2024-10-29
+C031,Kimberly Allen,kimberly@email,555-9014,NULL,Female,Fresno,USA,2023-06-20,Sports,640.00,2,5,Credit Card,Delivered,,2024-10-28
+C032,Jason Young,jason.young@email.com,,27,Male,Sacramento,USA,2023-07-25,Books,110.50,8,0,PayPal,Shipped,4.8,2024-10-27
+C033,Donna King,donna.king@email.com,555-1237,40,Female,Kansas City,USA,UNKNOWN,Electronics,2250.00,1,20,Credit Card,Delivered,5,2024-10-26
+C034,Timothy Wright,timothy@invalid,555-2348,36,M,Mesa,USA,2023-09-10,Clothing,NULL,5,15,Debit Card,Shipped,4.4,2024-10-25
+C035,Sharon Lopez,sharon.lopez@email.com,555-3459,32,Female,Atlanta,USA,2023-10-15,Home & Garden,780.00,3,10,PayPal,Delivered,4.7,2024-10-24
+C036,Kenneth Hill,kenneth.hill@email.com,555-4570,30,Male,Colorado Springs,USA,2023-11-20,Sports,,2,5,Credit Card,Cancelled,2.0,2024-10-23
+C037,Deborah Scott,deborah.scott@email.com,555-5681,31,Female,Raleigh,USA,2023-12-25,Books,165.25,11,0,PayPal,Delivered,4.9,2024-10-22
+C038,George Green,george@email,555-6791,38,Male,Omaha,USA,2024-01-30,Electronics,1680.00,1,15,Credit Card,Delivered,4.6,2024-10-21
+C039,Patricia Adams,patricia.adams@email.com,,29,F,Miami,USA,2024-02-28,Clothing,420.50,6,20,Debit Card,Shipped,4.5,2024-10-20
+C040,Edward Baker,edward.baker@email.com,555-8904,42,Male,Oakland,USA,2024-03-15,Electronics,2890.00,1,10,PayPal,,4.8,2024-10-19
+C041,Sandra Gonzalez,sandra@invalid,555-9015,33,Female,Minneapolis,USA,2024-04-20,Home & Garden,NULL,4,5,Credit Card,Delivered,4.3,2024-10-18
+C042,Donald Nelson,donald.nelson@email.com,555-0125,35,Male,Tulsa,USA,2024-05-25,Sports,810.00,2,15,PayPal,Shipped,,2024-10-17
+C043,Carol Carter,carol.carter@email.com,,NULL,Female,Cleveland,USA,2024-06-30,Books,135.75,9,0,Credit Card,Delivered,4.7,2024-10-16
+C044,Steven Mitchell,steven.mitchell@email.com,555-1238,30,Male,Wichita,USA,2024-07-15,Electronics,1420.00,2,20,Debit Card,Delivered,4.9,2024-10-15
+C045,Ruth Perez,ruth@email,555-2349,37,Female,Arlington,USA,N/A,Clothing,NULL,5,10,PayPal,Shipped,4.4,2024-10-14
+C046,Joseph Moore,joseph.moore@email.com,555-3460,250,Male,New Orleans,USA,2024-09-10,Electronics,1950.00,1,15,Credit Card,,4.6,2024-10-13
+C047,Nancy Taylor,nancy.taylor@email.com,555-4571,35,F,Bakersfield,USA,2024-10-15,Home & Garden,690.50,3,5,PayPal,Delivered,4.5,2024-10-12
+C048,Kevin Anderson,kevin@invalid,555-5682,-20,Male,Tampa,USA,2024-11-01,Sports,NULL,2,10,Credit Card,Cancelled,1.0,2024-10-11
+C049,Betty White,betty.white@email.com,555-6792,88,Female,Honolulu,USA,2024-11-10,Books,75.00,5,0,PayPal,Delivered,5,2024-10-10
+C050,Gary Martinez,gary.martinez@email.com,,45,Male,Anaheim,USA,2024-11-18,Electronics,2150.00,1,20,Credit Card,Shipped,4.7,2024-10-09

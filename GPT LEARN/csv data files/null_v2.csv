@@ -1,0 +1,51 @@
+employee_id,name,department,salary,age,sales_amount,join_date,performance_score,years_experience,bonus,email,phone,city,country,project_count
+101,John Smith,Sales,55000,28,12500,2020-03-15,8.5,3,5500,john.smith@company.com,555-0101,New York,USA,5
+102,Maria Garcia,,62000,34,15800,2019-07-22,9.2,6,7440,maria.garcia@company.com,,Los Angeles,USA,8
+103,James Wilson,Marketing,48000,,11200,2021-01-10,,2,,,555-0103,Chicago,,7
+104,Lisa Anderson,Sales,,29,14500,2020-11-05,7.8,4,4350,lisa.anderson@company.com,555-0104,,USA,
+105,Robert Brown,IT,75000,42,,2018-05-18,8.9,10,9000,,555-0105,Houston,USA,12
+106,,Marketing,51000,31,9800,,8.1,5,4080,unknown@company.com,555-0106,Phoenix,USA,6
+107,Emily Davis,Sales,58000,27,16200,2021-06-30,9.5,,6960,emily.davis@company.com,,Philadelphia,,9
+108,Michael Lee,,69000,38,,2019-02-14,,8,5520,michael.lee@company.com,555-0108,San Antonio,USA,
+109,Sarah Taylor,IT,,33,13400,2020-09-25,8.3,5,,sarah.taylor@company.com,555-0109,,USA,10
+110,David Martinez,Marketing,54000,,,2021-03-08,7.9,3,4320,,555-0110,San Diego,USA,5
+111,Jennifer White,Sales,61000,30,17500,,,,7320,jennifer.white@company.com,555-0111,Dallas,USA,11
+112,Christopher Johnson,,57000,35,12800,2019-12-01,8.7,7,5130,,,San Jose,,8
+113,,IT,72000,40,14900,2018-08-20,9.1,11,8640,tech.user@company.com,555-0113,Austin,USA,
+114,Amanda Thompson,Marketing,,28,,2021-04-15,7.5,2,3360,amanda.thompson@company.com,555-0114,Jacksonville,USA,4
+115,Daniel Garcia,Sales,59000,,15600,2020-07-10,,4,,,555-0115,,USA,7
+116,Jessica Martinez,,63000,36,13200,2019-10-05,8.8,6,5544,jessica.martinez@company.com,555-0116,Fort Worth,USA,9
+117,Matthew Brown,IT,76000,44,,,9.3,12,9120,,555-0117,Columbus,USA,13
+118,Ashley Wilson,Marketing,52000,32,10500,2021-02-20,,5,,ashley.wilson@company.com,555-0118,Charlotte,,
+119,Joshua Davis,,,,14100,2020-05-12,8.4,3,4230,joshua.davis@company.com,,Indianapolis,USA,6
+120,Michelle Anderson,Sales,60000,29,,2021-08-18,8.6,4,5400,,,Seattle,USA,8
+121,Andrew Thomas,IT,74000,41,13800,2018-11-30,,10,,andrew.thomas@company.com,555-0121,Denver,,11
+122,Stephanie Moore,Marketing,,33,11500,2020-12-05,8.2,5,3680,stephanie.moore@company.com,555-0122,Washington,USA,
+123,Brandon Jackson,Sales,56000,26,,2021-07-15,9.0,2,6720,,555-0123,Boston,USA,5
+124,,IT,71000,,15200,2019-04-20,8.8,9,7810,it.specialist@company.com,555-0124,,USA,10
+125,Nicole Martin,Marketing,49000,30,10200,,7.7,4,,nicole.martin@company.com,555-0125,Nashville,USA,6
+126,Kevin Lee,,65000,37,14800,2019-09-10,,7,5850,,,Portland,,9
+127,Rachel Harris,Sales,,28,16500,2020-10-25,9.4,3,7425,rachel.harris@company.com,555-0127,Las Vegas,USA,
+128,Justin Clark,IT,77000,43,,2018-03-12,9.2,13,,justin.clark@company.com,555-0128,Detroit,USA,14
+129,Melissa Lewis,,58000,34,12100,2020-02-18,8.5,,5324,melissa.lewis@company.com,555-0129,Memphis,,8
+130,Ryan Robinson,Marketing,53000,,,,7.8,6,4240,,555-0130,Baltimore,USA,7
+131,,Sales,62000,31,17200,2021-09-05,,5,7440,sales.rep@company.com,555-0131,Milwaukee,USA,10
+132,Laura Walker,IT,,39,13600,2019-06-14,8.9,8,5440,laura.walker@company.com,,Albuquerque,,
+133,Brian Hall,Marketing,50000,29,10800,2021-05-20,7.6,,4000,brian.hall@company.com,555-0133,Tucson,USA,5
+134,Kimberly Allen,,64000,,14300,2019-11-08,,7,5760,,555-0134,Fresno,USA,9
+135,Jason Young,Sales,59500,27,,2020-08-30,9.1,3,,jason.young@company.com,555-0135,,USA,6
+136,Donna King,IT,73000,40,15100,,8.7,10,8030,donna.king@company.com,555-0136,Sacramento,USA,11
+137,Timothy Wright,,66000,36,,2019-08-15,8.4,7,5940,timothy.wright@company.com,,Kansas City,,
+138,Sharon Lopez,Marketing,,32,11300,2020-11-20,7.9,4,3616,sharon.lopez@company.com,555-0138,Mesa,USA,6
+139,Kenneth Hill,Sales,61500,30,16800,2021-02-10,,5,7380,,555-0139,Atlanta,USA,8
+140,,IT,75500,,14500,2018-07-05,9.0,11,,it.manager@company.com,555-0140,Colorado Springs,USA,
+141,Deborah Scott,Marketing,51500,31,,2020-09-15,8.0,5,4120,deborah.scott@company.com,555-0141,Raleigh,,7
+142,George Green,,67000,38,13900,,,,6030,,555-0142,Omaha,USA,9
+143,Patricia Adams,Sales,,29,17000,2021-04-25,9.3,3,7650,patricia.adams@company.com,555-0143,Miami,USA,
+144,Edward Baker,IT,76500,42,,,8.8,12,8415,edward.baker@company.com,,Oakland,,12
+145,Sandra Gonzalez,Marketing,52500,33,10600,2020-07-08,7.7,,4200,sandra.gonzalez@company.com,555-0145,Minneapolis,USA,6
+146,Donald Nelson,,63500,35,14600,2019-10-30,8.6,6,,donald.nelson@company.com,555-0146,Tulsa,,10
+147,Carol Carter,Sales,60500,,16100,2021-01-15,,4,7260,,555-0147,Cleveland,USA,7
+148,,IT,74500,41,,2018-09-20,8.9,10,8195,senior.dev@company.com,555-0148,Wichita,USA,
+149,Steven Mitchell,Marketing,,30,11000,2020-12-12,7.8,4,3520,steven.mitchell@company.com,555-0149,,USA,5
+150,Ruth Perez,,68000,37,,2019-07-25,,8,6120,ruth.perez@company.com,555-0150,Arlington,USA,9
